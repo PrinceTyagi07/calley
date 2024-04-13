@@ -6,6 +6,7 @@ import C1 from './C1'
 import AI from './AI'
 import Skincare from './Skincare'
 import Choice from './Choice'
+import Belive from './Belive'
 const Home = () => {
   return (
   <div className="">
@@ -18,6 +19,7 @@ const Home = () => {
     <div><AI/></div>
     <div><Skincare/></div>
     <div><Choice/></div>
+    <div><Belive/></div>
 
   </div>
   )
